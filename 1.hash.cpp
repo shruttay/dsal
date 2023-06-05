@@ -1,3 +1,4 @@
+/*time complexity is O(1) */
 #include <iostream>
 #include <string.h>
 using namespace std;
